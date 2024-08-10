@@ -1,14 +1,14 @@
-Wren - Perosonal Blog Website
+Ali Jamal - Perosonal Blog Website
 
-This is a blog html template made by codewithsadee
+This is a blog html template made by Ali Jamal
 
 
 
 #---------- HEADER ----------#
 
-alt = Wren logo
+alt = Ali logo
 
-alt = Wren logo
+alt = Ali logo
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -31,8 +31,8 @@ My Likes
 Account Setting
 Sign Out
 
-Copyright 2022 © Wren - Personal Blog Template.
-Developed by codewithsadee
+Copyright 2022 © Ali - Personal Blog Template.
+Developed by Alilicodes
 
 Subscribe
 
@@ -45,7 +45,7 @@ aria-label = open menu
 
 Hello Everyone!
 
-I’m Wren Clark
+I’m Ali Jamal
 
 I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.
 
